@@ -1,0 +1,1 @@
+RecyclerView tutorial from Ray Wenderlich located at https://www.raywenderlich.com/1560485-android-recyclerview-tutorial-with-kotlin
